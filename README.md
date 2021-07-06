@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiae1009
-- 👀 I’m interested in Python yet.
-- 🌱 I’m currently learning Python, JaveScript, Jave, C
+- 👀 I’m interested in Python, SQL.
+- 🌱 I’m currently learning Python, SQL, JavaScript, Java, C
 - 💞️ I’m looking to collaborate on anyone who want to learn Coding!
 - 📫 How to reach me jiae1009@gmail.com 
 
